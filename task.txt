@@ -1,0 +1,16 @@
+-->input
+-->output -->
+-->map the logic 
+
+1) Build your own BMI calcultor? 
+bmi = weight/(height)**2 ->height is in metres
+
+underweight --> <18.5
+healthy -> >=18.5 - 24.9
+overweight -> >24.9 - 29.9
+obesity -> >29.9
+
+
+2)Build your own age calculator to determine vote right in india?
+
+
